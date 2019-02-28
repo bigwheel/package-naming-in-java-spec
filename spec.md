@@ -34,4 +34,4 @@ In some cases, the Internet domain name may not be a valid package name. Here ar
 
 * If any of the resulting package name components start with a digit, or any other character that is not allowed as an initial character of an identifier, have an underscore prefixed to the component.
 
-Names of packages intended only for local use should have a first identifier that begins with a lowercase letter, but that first identifier specifically should not be the identifier java; package names that start with the identifier java are reserved for package of the Java SE platform.
+Names of packages intended only for local use should have a first identifier that begins with a lowercase letter, but that first identifier specifically should not be the identifier java; package names that start with the identifier java are reserved for packages of the Java SE platform.
